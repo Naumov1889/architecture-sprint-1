@@ -253,4 +253,4 @@ Webpack Module Federation работает заточен на работу в �
 https://drive.google.com/file/d/1GLP12iT5S1oOn1o2nPow9K5WAwXHsE0R/view?usp=sharing
 
 Та же схема в виде картинки:
-![Спринт 1. Задание 2](./readme/Спринт 1. Задание 2.jpg)
+![Спринт 1. Задание 2](readme/sprint-1-task-2.jpg)
