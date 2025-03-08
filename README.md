@@ -249,3 +249,8 @@ Webpack Module Federation работает заточен на работу в �
 Не реализован.
 
 # Задание 2
+Ссылка на draw.io: <br>
+https://drive.google.com/file/d/1GLP12iT5S1oOn1o2nPow9K5WAwXHsE0R/view?usp=sharing
+
+Та же схема в виде картинки:
+![Спринт 1. Задание 2](./readme/Спринт 1. Задание 2.jpg)
